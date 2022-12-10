@@ -1,0 +1,11 @@
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\bin\Debug\AutoJack.exe.config
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\bin\Debug\AutoJack.exe
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\bin\Debug\AutoJack.pdb
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.csproj.AssemblyReference.cache
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.csproj.SuggestedBindingRedirects.cache
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.AutoJack.resources
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.Properties.Resources.resources
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.csproj.GenerateResource.cache
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.csproj.CoreCompileInputs.cache
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.exe
+C:\Users\suteo\Desktop\Proxy\as\AutoJack\obj\Debug\AutoJack.pdb
